@@ -7,7 +7,7 @@ A React + Next.js project for **Pixisphere**, a platform connecting customers wi
 ## Demo
 
 Live demo URL:  
-([https://your-demo-url.vercel.app](https://pixel-india-git-main-sujitkumrs-projects.vercel.app))
+([Site](https://pixel-india-git-main-sujitkumrs-projects.vercel.app))
 
 ---
 
