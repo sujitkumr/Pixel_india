@@ -49,3 +49,10 @@ npm install
 # or
 yarn install
 Open http://localhost:3000 in your browser to view the app.
+
+### My Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/3233sujit-kumar-67b13321b/)
+- [GitHub](https://github.com/sujitkumr)
+- [LeetCode](https://leetcode.com/sujitkymar101/)
+- Email: [sujitkymar101@gmail.com](mailto:sujitkymar101@gmail.com)
